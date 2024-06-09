@@ -1,6 +1,4 @@
-# Password-Generator
-Password Generator using html css and javascript 
-# Password Generator
+ # Password Generator
 
 A simple password generator tool to create secure and random passwords.
 
